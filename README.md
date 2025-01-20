@@ -1,2 +1,2 @@
-# Morbidostat_phage
-Code to run the morbidostat for my phage experiments.
+# Aionostat code
+Code to run the Aionostat for the phage experiments described in "Transforming Bacteriophage Evolution Studies through Automation with the Aionostat".
